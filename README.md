@@ -108,3 +108,5 @@ Les prédictions sont sauvegardées dans une base SQLite afin de :
 - conserver l’historique;
 - analyser les résultats;
 - construire un futur dashboard
+  <img width="1882" height="702" alt="image" src="https://github.com/user-attachments/assets/228dc84f-3a3b-416a-a490-80ad19b67364" />
+
